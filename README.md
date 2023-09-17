@@ -21,10 +21,10 @@
 
 [`Deploy on Mogenius`](https://studio.mogenius.com/)
 
-[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/DarkMakerofc/Queen-Elisa-MD-V2)
+[`Deploy on heroku`](https://heroku.com/deploy?template= https://github.com/alonesaja1/Queen-ben-md
 
 [`Deploy on Replit`](https://replit.com)
 
 [`Deploy on Uffizzi`](https://www.uffizzi.com/)
 </details>
-* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRalonesaja/QUEEN-Ben-MULTIAUTH-QR-SCANER)
+
