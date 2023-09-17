@@ -27,3 +27,4 @@
 
 [`Deploy on Uffizzi`](https://www.uffizzi.com/)
 </details>
+* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRalonesaja/QUEEN-Ben-MULTIAUTH-QR-SCANER)
