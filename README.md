@@ -21,7 +21,7 @@
 
 [`Deploy on Mogenius`](https://studio.mogenius.com/)
 
-[`Deploy on heroku`](https://heroku.com/deploy?template= https://github.com/alonesaja1/Queen-ben-md)
+[`Deploy on heroku`](https://heroku.com/deploy?template=https://.com/alonesaja1/Queen-ben-md )
 
 [`Deploy on Replit`](https://replit.com)
 
