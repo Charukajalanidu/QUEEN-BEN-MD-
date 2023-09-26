@@ -11,10 +11,11 @@
     <p align="center">
 <p>
 <p align="center">
-<a href="https://github.com/alonesaja1?tab=followers"><img title="Followers" src="a  href="https:/src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
-<a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/darkmakerofc/Queen-Elisa-MD-V2?color=white&style=flat-square"></a>
+<a href="https://github.com/alonesaja1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/AlipBot?color=green&style=flat-square"></a>
+<a href="https://github.com/alonesaja1/Queen-Ben-Md-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/darkmakerofc/Queen-Elisa-MD-V2?color=white&style=flat-square"></a>
 <a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/darkmakerofc/Queen-Elisa-MD-V2?color=yellow&style=flat-square"></a>
 <a href="https://github.com/DarkMakerofc/Queen-Elisa-Md-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/darkmakerofc/Queen-Elisa-MD-V2?label=Watchers&color=red&style=flat-square"></a>
+<p 
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mr charuka-red.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
