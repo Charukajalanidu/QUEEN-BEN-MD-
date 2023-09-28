@@ -22,10 +22,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Queen-Ben-Whatsap-bot+;Create+by+mr+charuka)](https://git.io/typing-svg)
 
-<p align="left">
-<a href="https://github.com/alonesaja1/Queen-Ben-MD-/fork"><img align="center" 
-src="https://telegra.ph/file/3514997e86c4bb12d8f67.png" alt="Fork and deploy" height="35" width="155" /></a>
-<p align="center">
+
 <details>
  
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
