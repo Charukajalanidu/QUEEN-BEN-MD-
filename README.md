@@ -6,7 +6,7 @@
 </p>
 </p>
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+BEN+WHATSAPP+BOT" alt="">
+  src="https://telegra.ph/file/3514997e86c4bb12d8f67.png" alt="Fork and deploy" height="35" width="155" /></a>
 </p>
     <p align="center">
 <p>
