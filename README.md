@@ -19,12 +19,12 @@
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mr charuka-red.svg?style=for-the-badge&logo=github"></a>
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙍𝙀𝘿╺+𝘿𝙍𝘼𝙂𝙊𝙉+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝚁𝙴𝙳+𝙳𝚁𝙰𝙶𝙾𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.
+  
 <p align="center">
 <details>
-
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙍𝙀𝘿╺+𝘿𝙍𝘼𝙂𝙊𝙉+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝚁𝙴𝙳+𝙳𝚁𝙰𝙶𝙾𝙽+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.
-
-  
+ 
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
 
 
