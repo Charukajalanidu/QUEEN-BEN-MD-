@@ -4,9 +4,8 @@
 </p>
 <p align="center">  <img src="https://i.ibb.co/YBrD0Np/IMG-20230918-142457.jpg" width="300" height="300"/>
 </p>
-</p>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=QUEEN+BEN+WHATSAP+BOT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=QUEEN+BEN+WHATSAP+BOT)](https://git.io/typing-svg)
 </p>
     <p align="center">
 <p>
