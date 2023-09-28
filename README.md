@@ -5,7 +5,7 @@
 <p align="center">  <img src="https://i.ibb.co/YBrD0Np/IMG-20230918-142457.jpg" width="300" height="300"/>
 </p>
 </p>
-<p align="center">
+<p
   src="https://telegra.ph/file/3514997e86c4bb12d8f67.png" alt="Fork and deploy" height="35" width="155" /></a>
 </p>
     <p align="center">
