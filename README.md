@@ -6,7 +6,7 @@
 </p>
 </p>
 <p
-  src="https://telegra.ph/file/3514997e86c4bb12d8f67.png" alt="Fork and deploy" height="35" width="155" /></a>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=QUEEN+BEN+WHATSAP+BOT)](https://git.io/typing-svg)
 </p>
     <p align="center">
 <p>
