@@ -15,7 +15,9 @@
 <a href="https://github.com/alonesaja1/Queen-Ben-Md-/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/alonesaja1/Queen-Ben-MD?color=white&style=flat-square"></a>
 <a href="https://github.com/alonesaja1/Queen-Ben-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/alonesaja1/Queen-Ben-MD?color=yellow&style=flat-square"></a>
 <a href="https://github.com/alonesaja1/Queen-Ben-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/alonesaja1/Queen-Ben-MD?label=Watchers&color=red&style=flat-square"></a>
-  ;
+
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+QUEEN-╺+BEN+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+QUEEN+BEN+𝚃𝙴𝙰𝙼;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+mr charuka+](https://git.
+  
 </p>
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mr charuka-red.svg?style=for-the-badge&logo=github"></a>
