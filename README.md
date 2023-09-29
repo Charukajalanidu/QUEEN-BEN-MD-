@@ -27,8 +27,7 @@
 
 
 
-
-</details>
+<details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
 
 
@@ -38,7 +37,7 @@
 
 [`Deploy on Mogenius`](https://studio.mogenius.com/)
 
-[`Deploy on heroku`](https://heroku.com/deploy?template=https://.com/alonesaja1/Queen-ben-md )
+[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/alonesaja1/Queen-Ben-MD-V2)
 
 [`Deploy on Replit`](https://replit.com)
 
