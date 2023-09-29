@@ -22,7 +22,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Queen-Ben-Whatsap-bot+;Create+by+mr+charuka)](https://git.io/typing-svg)
 
-
+•𝗳𝗼𝗿𝗸 𝗻𝗼𝘄
 
 
 [`Fork Ben Bot Repo`](https://github.com/alonesaja1/Queen-ben-md/fork)
