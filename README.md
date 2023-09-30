@@ -40,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
+[`scan Qr Code`](https://replit.com/@alonesaja1/Queen-Ben-QR-CODE-GENERATOR-1#index.js)
 
 
 
