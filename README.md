@@ -18,7 +18,7 @@
 <p align="center">
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mr charuka-red.svg?style=for-the-badge&logo=github"></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+Queen-Ben-Whatsap-bot+;Create+by+mr+charuka)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FF000000&random=false&width=445&lines=%F0%9F%92%97Welcome+to+Queen+ben+;whatsap+bot%F0%9F%92%97;create+by+mr+charuka" alt="Typing SVG" /></a>
 
 
 
