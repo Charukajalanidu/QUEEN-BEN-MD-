@@ -5,7 +5,8 @@
 <p align="center">  <img src="<a href="https://ibb.co/9NqLHLY"><img src="https://i.ibb.co/R9CmTmH/20231104-091505.png" alt="20231104-091505" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />" 
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&background=FF000000&random=false&width=445&lines=%F0%9F%92%97Welcome+to+Queen+ben+;whatsap+bot%F0%9F%92%97;create+by+mr+charuka" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+BEN+WHATSAPP+BOT" alt="">
     <p align="center">
 <p>
 <p align="center">
