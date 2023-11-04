@@ -2,7 +2,7 @@
 <p align="center"> 
 <u>💖ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ charuka💖</u>
 </p>
-<p align="center">  <img src="https://i.ibb.co/YBrD0Np/IMG-20230918-142457.jpg" width="300" height="300"/>
+<p align="center">  <img src="<a href="https://ibb.co/9NqLHLY"><img src="https://i.ibb.co/R9CmTmH/20231104-091505.png" alt="20231104-091505" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />" 
 </p>
 
 <p align="center">
