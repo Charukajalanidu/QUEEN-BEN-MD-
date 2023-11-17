@@ -1,7 +1,7 @@
 
 {
   "name": "QUEEN Ben Md",
-  "version": "",
+  "version": "0.0.1",
   "description": "Queen Ben Whatsapp Bot is Baileys Web base Whatsapp 3rd Party Module",
   "type": "commonjs",
   "scripts": {
