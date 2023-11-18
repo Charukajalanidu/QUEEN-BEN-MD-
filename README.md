@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 
 [`Deploy on Mogenius`](https://studio.mogenius.com/)
 
-[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/alonesaja1/Queen-Ben-MD-V2)
+[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/alonesaja1/Queen-Ben-MD-)
 
 [`Deploy on Replit`](https://replit.com)
 
