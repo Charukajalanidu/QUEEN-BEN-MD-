@@ -40,6 +40,11 @@ You can click the Preview link to take a look at your changes.
 
 [`scan Qr Code`](https://replit.com/@alonesaja1/Queen-Ben-QR-CODE-GENERATOR-scaner)
 
+#
+
+
+### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/charukajalanidu)
+<b>Version -> 0.0.1</b
 
 #
 <details>
