@@ -8,7 +8,6 @@ WHATSAPP BOT BY MR charuka
 
 WHATSAPP - 94710167783
 SUPPORT GROUP - https://t.me/queenbensupport
-YOUTUBE - 
  
 
 */
@@ -71,52 +70,50 @@ global.AUTO_SEEN_STATUS = true
 */
 // You Bots Owner Number       
 //global.owner = ['94710167783'] 
-//👇 Your Caption ( Image Video )
+//⬇️ Your Caption ( Image Video )
 global.cap = '© 𝐃𝐎𝐖𝐍𝐋𝐎𝐃𝐄𝐃 𝐁𝐘 𝐐𝐔𝐄𝐄𝐍 𝐁𝐄𝐍 𝐌𝐃²⁰²³'
-//👇 Your Bot Name
+//⬇️ Your Bot Name
 global.botnma =  '𝐐𝐔𝐄𝐄𝐍 𝐁𝐄𝐍 𝐌𝐃' 
-//👇 Your name
+//⬇️ Your name
 global.ownernma =  'ᴍʀ 𝚌𝚑𝚊𝚛𝚞𝚔𝚊 𝚓𝚊𝚕𝚊𝚗𝚒𝚍𝚞' 
-//👇 Sticker Author Name
+//⬇️ Sticker Author Name
 global.packname =  '𝙼𝚁 𝚌𝚑𝚊𝚛𝚞𝚔𝚊 𝚓𝚊𝚕𝚊𝚗𝚒𝚍𝚞 𝙾𝙵𝙲' 
-//👇 Inbox Block Massage 
+//⬇️ Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
-//👇 Owner React Imoji
+//⬇️ Owner React Imoji
 global.OWNER_REACT =  '😇'
-//👇 Song Download Massage 
+//⬇️ Song Download Massage 
 global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
-//👇 Song Uplode massage 
+//⬇️ Song Uplode massage 
 global.SONG_UP = '```⬆️ Uploding Your Song...```'
-//👇 Menu imoji 
+//⬇️ Menu imoji 
 global.MENU_IMOJI = '👸|ℹ️'
-//👇 Your time zone ( use correct time zone )
+//⬇️ Your time zone ( use correct time zone )
 global.TIME_ZONE = process.env.TIME_ZONE || 'Asia/Colombo'
-//👇 Removebg Api key
+//⬇️ Removebg Api key
 global.REMOVE_BG_API = 'apikey get on remoebg.com'
-//👇 Change Bot Language 
+//⬇️ Change Bot Language 
 global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
-//👇 Alive message
+//⬇️ Alive message
 global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `default`
-//👇 Welcome Mesaage
+//⬇️ Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
-//👇 welcome image 
+//⬇️ welcome image 
 global.WELCOME_IMAGE = process.env.WELCOME_IMAGE || ``
-//👇 Goodbye message 
+//⬇️ Goodbye message 
 global.GOODBYE = process.env.GOODBYE || ``
-//👇 Good bye image
+//⬇️ Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
-//👇 DISABLE PM Block numbers
+//⬇️ DISABLE PM Block numbers
 global.NO_BLOCK = ["94715166712","94719574492"]
-//👇 DISABLE download words
+//⬇️ DISABLE download words
 global.IMG_BLOCKER = ["xxx","sex","mia"]
-//👇 Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
+//⬇️ Open ai API Put Withouth "sk-" ( "sk-" අයින් කරල ඉතුරු ටික දාන්න )
 global.CHATGPT_API = ''
-//👇 Sex  video Download Allowed Groups
-global.SEX_DOWNLOAD_GROUPS = ['120363147404508506@g.us']
-//👇 Your Bot Group Link
-global.GROUP_LINK = 'https://chat.whatsapp.com/Ih1udrdBNvX5xSu5mUVdql'
+//⬇️ Your Bot Group Link
+global.GROUP_LINK = 'https://chat.whatsapp.com/Im90NLkV1Ci3mk1DrPa16O'
 /*
 
    🍃 OTHER 🍃
