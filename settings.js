@@ -179,8 +179,8 @@ global.APIKeys = {
 	'https://zenzapi.xyz': '01ABEB1E11', //Kalau habis beli sendiri
 }
 
-//global.alivelogo = `https://telegra.ph/file/b3f17c16eedf99731a52d.jpg`
-global.imgalive = fs.readFileSync('./Media/image/Elisa.jpg')
+//global.alivelogo = `https://ibb.co/8zsN08s][img]https://i.ibb.co/8zsN08s/20231119-075900.jpg`
+global.imgalive = fs.readFileSync('./Media/image/ben.jpg')
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
