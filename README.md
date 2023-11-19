@@ -5,18 +5,7 @@
 <u>💖ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ charuka💖</u>
 </p>
 
-<p align="center"><img src="<a href="https://ibb.co/9NqLHLY"><img src="</p>
-<p align="center">
-<img src="https://i.ibb.co/nPYVtwV/queen-ben-new-logo-600-600.jpg" width="300" height="300"/>
-</p>" alt="20231104-0915" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />" 
-</p>
 
-</p>
-<p align="center">
-<img src="</p>
-<p align="center">
-<img src="https://i.ibb.co/nPYVtwV/queen-elisa-new-logo-600-600.jpg" width="300" height="300"/>
-</p>" width="300" height="300"/>
 </p>
 <p>
 <p align="center">
