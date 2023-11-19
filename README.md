@@ -5,7 +5,7 @@
 <u>💖ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ charuka💖</u>
 </p>
 <p align="center">
-<img src="https://ibb.co/9h3qpBF][img]https://i.ibb.co/KDz95BM/IMG-20231119-WA0042.jpg" width="300" height="300"/>
+<img src="https://i.ibb.co/KDz95BM/IMG-20231119-WA0042.jpg" width="300" height="300"/>
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=QUEEN+BEN+WHATSAPP+BOT" alt="">
